@@ -1,0 +1,14 @@
+﻿@model List<MovieListViewModel>
+
+<h3>Movies:</h3>
+<br />
+
+<ol>
+    @foreach (var movie in Model)
+    {
+        <li>@movie.Title | @movie.Genre</li>
+        <a asp-action="Details" asp-route-id="@movie.Id">See details</a>
+    }
+</ol>
+
+<button class="btn btn-warning"><a asp-action="Create">Create Movie</a></button>

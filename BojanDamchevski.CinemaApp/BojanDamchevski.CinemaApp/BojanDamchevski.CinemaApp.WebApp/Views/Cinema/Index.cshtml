@@ -1,0 +1,14 @@
+﻿@model List<CinemaListViewModel>
+
+<h3>Cinemas:</h3>
+<br />
+
+<ol>
+    @foreach (var cinema in Model)
+    {
+        <li>@cinema.Name</li>
+        <a asp-action="Details" asp-route-id="@cinema.Id">See details</a>
+    }
+</ol>
+
+<button class="btn btn-warning"><a asp-action="Create">Create Cinema</a></button>

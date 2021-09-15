@@ -1,0 +1,12 @@
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.deps.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.ViewModels\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.csproj.CopyComplete

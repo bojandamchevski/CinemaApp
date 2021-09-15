@@ -1,0 +1,9 @@
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.deps.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.AssemblyInfo.cs
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Domain\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.pdb

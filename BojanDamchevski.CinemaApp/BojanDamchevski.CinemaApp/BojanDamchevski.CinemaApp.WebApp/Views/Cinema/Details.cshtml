@@ -1,0 +1,11 @@
+﻿@model CinemaDetailsViewModel
+
+<h5>Details for: @Model.Name</h5>
+<hr />
+<p>Location: @Model.Location</p>
+<br />
+@foreach (var movies in Model.Movies)
+{
+    <p>@movies</p>
+}
+<a asp-action="Index">Back</a>

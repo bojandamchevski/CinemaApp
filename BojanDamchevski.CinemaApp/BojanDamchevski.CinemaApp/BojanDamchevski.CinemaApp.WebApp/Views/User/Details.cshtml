@@ -1,0 +1,9 @@
+﻿@model UserDetailsViewModel
+
+<h5>Details for: @Model.UserFullName</h5>
+<hr />
+@foreach (var movie in Model.UserMovieReservationDetails)
+{
+    <p>@movie</p>
+}
+<a asp-action="Index">Back</a>

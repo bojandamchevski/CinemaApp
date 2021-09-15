@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.deps.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.ViewModels.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.AssemblyInfo.cs
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.csproj.CopyComplete
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.Mappers\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Mappers.pdb

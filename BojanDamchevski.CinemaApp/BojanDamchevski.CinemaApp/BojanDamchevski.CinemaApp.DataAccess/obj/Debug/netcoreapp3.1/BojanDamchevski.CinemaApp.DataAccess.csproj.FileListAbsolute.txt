@@ -1,0 +1,15 @@
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.deps.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.AssemblyInfo.cs
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.dll
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.Domain.pdb
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.csproj.CopyComplete
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.runtimeconfig.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\bin\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.runtimeconfig.dev.json
+C:\Users\Com\Desktop\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp\BojanDamchevski.CinemaApp.DataAccess\obj\Debug\netcoreapp3.1\BojanDamchevski.CinemaApp.DataAccess.genruntimeconfig.cache

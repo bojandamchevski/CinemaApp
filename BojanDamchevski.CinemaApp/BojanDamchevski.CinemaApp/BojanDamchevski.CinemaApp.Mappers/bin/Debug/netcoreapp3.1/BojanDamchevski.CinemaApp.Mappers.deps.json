@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BojanDamchevski.CinemaApp.Mappers/1.0.0": {
+        "dependencies": {
+          "BojanDamchevski.CinemaApp.Domain": "1.0.0",
+          "BojanDamchevski.CinemaApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "BojanDamchevski.CinemaApp.Mappers.dll": {}
+        }
+      },
+      "BojanDamchevski.CinemaApp.Domain/1.0.0": {
+        "runtime": {
+          "BojanDamchevski.CinemaApp.Domain.dll": {}
+        }
+      },
+      "BojanDamchevski.CinemaApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "BojanDamchevski.CinemaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BojanDamchevski.CinemaApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BojanDamchevski.CinemaApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BojanDamchevski.CinemaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BojanDamchevski.CinemaApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
